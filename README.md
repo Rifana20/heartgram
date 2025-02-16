@@ -13,6 +13,14 @@ Heartgram is a love-themed platform that turns emotions into experiences with mu
 - [Love Calculator Streamlit App](https://github.com/Rifana20/lovecalculator)
 
 ---
+##Technologies Used:
+Streamlit: For building interactive web applications in Python.
+HTML/CSS: Custom styling and layout for the front end.
+JavaScript: Handling user interactions, particularly in generating personalized love messages.
+Python: Backend logic for generating love scores, compatibility tests, and offering suggestions.
+TextBlob: For sentiment analysis to calculate the love score.
+Random: For generating random love messages, couple names, and songs.
+Emoji: To add some fun, interactive emoji responses.
 
 ## 🚀 Features
 - 🎶 **Music Integration:** Enhance the mood with romantic tunes.
@@ -28,11 +36,16 @@ Heartgram is a love-themed platform that turns emotions into experiences with mu
 
 ## 🖼️ Media Showcase
 ### 📸 Screenshots
-![Heartgram Homepage](https://via.placeholder.com/600x300?text=Homepage+Screenshot)
-![Flame Test Feature](https://via.placeholder.com/600x300?text=Flame+Test+Feature)
+![Heartgram Homepage](![Screenshot (541)](https://github.com/user-attachments/assets/e6caf0ff-9966-4ff9-967b-6491700c4e41)
+)(![Screenshot (544)](https://github.com/user-attachments/assets/9fbe59ec-9f2e-4fe1-a987-1d699d3b19ba)
+)
+![Flame Test Feature](![Screenshot (545)](https://github.com/user-attachments/assets/aa4dfdfe-a208-40f0-8325-3c4a62b75503)
+)
+![Love compatibility](![Screenshot (542)](https://github.com/user-attachments/assets/cac5a35e-370b-4555-ae4e-258cb1f91b54)
+)
 
 ### 🎥 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/YourVideoIDHere/0.jpg)](https://www.youtube.com/watch?v=YourVideoIDHere)
+[![Watch the Demo](https://youtu.be/nsMGaKsBlis?si=fCCuucpZzx79vozo)
 
 *(Replace `YourVideoIDHere` with your actual YouTube video ID)*
 
