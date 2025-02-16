@@ -14,13 +14,13 @@ Heartgram is a love-themed platform that turns emotions into experiences with mu
 
 ---
 ##Technologies Used:
-Streamlit: For building interactive web applications in Python.
-HTML/CSS: Custom styling and layout for the front end.
-JavaScript: Handling user interactions, particularly in generating personalized love messages.
-Python: Backend logic for generating love scores, compatibility tests, and offering suggestions.
-TextBlob: For sentiment analysis to calculate the love score.
-Random: For generating random love messages, couple names, and songs.
-Emoji: To add some fun, interactive emoji responses.
+-Streamlit: For building interactive web applications in Python.
+-HTML/CSS: Custom styling and layout for the front end.
+-JavaScript: Handling user interactions, particularly in generating personalized love messages.
+-Python: Backend logic for generating love scores, compatibility tests, and offering suggestions.
+-TextBlob: For sentiment analysis to calculate the love score.
+-Random: For generating random love messages, couple names, and songs.
+-Emoji: To add some fun, interactive emoji responses.
 
 ## 🚀 Features
 - 🎶 **Music Integration:** Enhance the mood with romantic tunes.
@@ -44,8 +44,10 @@ Emoji: To add some fun, interactive emoji responses.
 ![Love compatibility](![Screenshot (542)](https://github.com/user-attachments/assets/cac5a35e-370b-4555-ae4e-258cb1f91b54)
 )
 
-### 🎥 Demo Video
-[![Watch the Demo](https://youtu.be/nsMGaKsBlis?si=fCCuucpZzx79vozo)
+## 🎥 Demo Video
+Check out the **Heartgram** Demo:
+[![Watch the Demo](https://img.youtube.com/vi/nsMGaKsBlis/0.jpg)](https://youtu.be/nsMGaKsBlis?si=fCCuucpZzx79vozo)
+
 
 *(Replace `YourVideoIDHere` with your actual YouTube video ID)*
 
