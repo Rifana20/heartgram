@@ -1,6 +1,4 @@
-# heartgram
-#Project name
-Heartgram – Where Love Finds Its Perfect Expression! ❤️
+#Heartgram – Where Love Finds Its Perfect Expression! ❤️
 
 Heartgram is a love-themed platform that turns emotions into experiences with music and playful effects. Users can share love notes, test compatibility, get couple name suggestions, explore gift ideas, take the Flame Test, get book recommendations, spin for surprises, generate poems, and receive a daily quote.
 
@@ -40,32 +38,6 @@ Heartgram is a love-themed platform that turns emotions into experiences with mu
 
 ---
 
-## 🛠️ Installation Guide
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Rifana20/heartgram.git
-   cd heartgram
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application:**
-   ```bash
-   streamlit run app.py
-   ```
-
-4. **Open in Browser:**
-   Navigate to `http://localhost:8501/`
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository, open issues, or submit pull requests.
-
----
 
 ## 📜 License
 This project is licensed under the MIT License.
