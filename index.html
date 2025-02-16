@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💖 Heartgram 💖</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>💖 Heartgram 💖</h1>
+        <p>Discover your love compatibility in a fun way! Take the test now.</p>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <img src="couple1.png" alt="Cute couple"><br>
+        <button id="startButton">🌸 Blush Meter</button>
+        <button id="giftSuggestionBtn">🌼 Bliss in a Box</button><br>
+        
+        <h1>📖 Romantic Book Recommendation</h1>
+        <input type="number" id="age" placeholder="enter age" min="1" max="100">
+        <br>
+        <button id="book">🌜 Moonlit Reads</button>
+        <div id="result"></div>
+    </section>
+
+    <!-- Music -->
+    <audio id="backgroundMusic" src="love.mp3" autoplay loop></audio>
+    <audio id="clickSound" src="pop.mp3" preload="auto"></audio>
+
+<!-- Spin the Wheel -->
+<div class="wheel-container">
+    <img id="spinWheel" src="wheel.png" alt="Love Wheel" />
+    <div id="wheelResult"></div>
+</div>
+
+<div class="love-notes">
+    <input type="text" id="loveNoteInput" placeholder="Write a love note 💌">
+    <button id="addNoteBtn">Add Note</button>
+    <div id="notesContainer"></div>
+</div>
+
+
+
+    <!-- Poem Generator -->
+    <div class="poem-generator">
+        <input type="text" id="poemName" placeholder="Enter a name 💞">
+        <input type="text" id="poemMood" placeholder="Enter a mood (happy/sad/romantic)">
+        <button id="generatePoemBtn">Generate Poem</button>
+        <div id="poemOutput"></div>
+    </div>
+
+    <!-- Love Quotes Section -->
+    <section class="love-quotes">
+        <h2>✨ Love Quote of the Day ✨</h2>
+        <p id="quote"></p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>Made with ❤️ for all lovebirds out there!</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
